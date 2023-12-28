@@ -18,7 +18,7 @@ export default {
         "bg-main-2": "#eaf4f5",
       },
       fontFamily: {
-        "main-font": "Barlow Condensed', sans-serif",
+        "main-font": "Barlow Condensed",
       },
     },
   },
